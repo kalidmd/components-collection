@@ -1,9 +1,10 @@
 import React from "react";
+import BackToTop from "./components/BackToTop";
 
 function App() {
   return (
     <div className="App">
-      hello
+      <BackToTop />
     </div>
   );
 }
